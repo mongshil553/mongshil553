@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=120&section=header&animation=fadeIn&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=120&section=header&animation=fadeIn&text=Robotics%20Engineering&fontSize=60)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+page!&color=000000&repeat=false)](https://git.io/typing-svg)
