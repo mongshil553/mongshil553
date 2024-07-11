@@ -1,8 +1,11 @@
 ## Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=120&section=header&animation=fadeIn&text=capsule%20render&fontSize=90)
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+page!&color=000000&repeat=false)](https://git.io/typing-svg)
 
-<h3 align="center">✨ Tech Stacks ✨</h3>
+<h3 align="center">📚 Tech Stacks</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
