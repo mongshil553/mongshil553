@@ -27,7 +27,10 @@ Hi there, I am a student majoring in Robotics Engineering. I specialize in progr
 <div align="center">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> &nbsp
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> &nbsp
-  
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"> &nbsp
+
+  <img src="https://img.shields.io/badge/Notion-EEEEEE?style=for-the-badge&logo=notion&logoColor=black" /> &nbsp
+
 </div>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kijung553)](https://solved.ac/kijung553)
