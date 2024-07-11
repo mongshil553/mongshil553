@@ -4,20 +4,26 @@ Hi there, I am a student majoring in Robotics Engineering. I specialize in progr
 
 <!--![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=120&section=header&animation=fadeIn&text=Robotics%20Engineering&fontSize=60)-->
 
-<h3 align="center">📚 Tech Stacks</h3>
+<br>
+<h3 align="center">📚 Tech Stacks 📚</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" />&nbsp 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" /> &nbsp
-  <img src="https://img.shields.io/badge/matblab-F05032?style=for-the-badge&logo=mathwork&logoColor=white" /> &nbsp
-  
-  
-  
+  <img src="https://img.shields.io/badge/matblab-F05032?style=for-the-badge&logo=mathwork&logoColor=white" /> &nbsp  
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/> &nbsp
 </div>
 
 <br>
+
+<h3 align="center">Tools</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> &nbsp
+  
+</div>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kijung553)](https://solved.ac/kijung553)
 
