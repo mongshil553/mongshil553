@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+page!&color=000000)](https://git.io/typing-svg)
+
 <h3 align="center">✨ Tech Stacks ✨</h3>
 
 <div align="center">
