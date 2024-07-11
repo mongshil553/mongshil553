@@ -20,7 +20,7 @@ Hi there, I am a student majoring in Robotics Engineering. I specialize in progr
   <img src="https://img.shields.io/badge/PowerPoint VBA-cc0000?style=for-the-badge&logo=powerpoint&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/MS Access-990000?style=for-the-badge&logo=powerpoint&logoColor=white"/> &nbsp
   <br>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> &nbsp
   <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/> &nbsp
 </div>
 
