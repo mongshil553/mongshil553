@@ -4,7 +4,7 @@ Hi there, I am a student majoring in Robotics Engineering. I specialize in progr
 
 <!--![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=120&section=header&animation=fadeIn&text=Robotics%20Engineering&fontSize=60)-->
 
-<br>
+<hr>
 <h3 align="center">📚 Tech Stacks 📚</h3>
 
 <div align="center">
@@ -35,6 +35,7 @@ Hi there, I am a student majoring in Robotics Engineering. I specialize in progr
   <img src="https://img.shields.io/badge/Notion-EEEEEE?style=for-the-badge&logo=notion&logoColor=black" /> &nbsp
 
 </div>
+<hr>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kijung553)](https://solved.ac/kijung553)
 
