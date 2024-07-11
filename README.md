@@ -37,8 +37,9 @@ Hi there, I am a student majoring in Robotics Engineering. I specialize in progr
 </div>
 <hr>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kijung553)](https://solved.ac/kijung553)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kijung553&show_icons=true&theme=radical)
+<!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kijung553)](https://solved.ac/kijung553)-->
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mongshil553&show_icons=true&theme=radical)-->
+
 
 <!--
 **mongshil553/mongshil553** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
