@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<h3 align="center">✨ Languages ✨</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+</div>
+
+<br>
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kijung553)](https://solved.ac/kijung553)
 
 <!--
