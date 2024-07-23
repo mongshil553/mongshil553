@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Roboto+Mono&lines=Welcome+to+my+github+page+👋&color=000000&repeat=true&duration=3000&size=30&width=600&pause=10000)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Sedan+SC&lines=Welcome+to+my+github+page+👋&color=000000&repeat=true&duration=3000&size=35&width=600&pause=10000)](https://git.io/typing-svg)
 
 Hi there, I am a student majoring in Robotics Engineering. I specialize in programming to control robots, machine learning for advanced robots.
 
