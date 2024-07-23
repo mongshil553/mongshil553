@@ -16,6 +16,8 @@ Hi there, I am a student majoring in Robotics Engineering. I specialize in progr
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/AVR-000000?style=for-the-badge&logo=Atmel&logoColor=white"/> &nbsp
   <br>
+  <img src="https://img.shields.io/badge/VHDL-666666?style=for-the-badge&logo=vhdl&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/Verilog-111111?style=for-the-badge&logo=verilog&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/Excel VBA-269539?style=for-the-badge&logo=excel&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/PowerPoint VBA-cc0000?style=for-the-badge&logo=powerpoint&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/MS Access-990000?style=for-the-badge&logo=powerpoint&logoColor=white"/> &nbsp
