@@ -2,7 +2,7 @@
 
 Hi there, I am a student majoring in Robotics Engineering. I specialize in programming to control robots, machine learning for advanced robots. <br>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")]([www.google.com](https://stackoverflow.com/users/12299287/cryptocode))
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://stackoverflow.com/users/12299287/cryptocode)
 
 
 #
