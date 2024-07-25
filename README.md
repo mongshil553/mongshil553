@@ -1,9 +1,9 @@
  [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Sedan+SC&lines=Welcome+to+my+github+page+👋&color=000000&repeat=true&duration=3000&size=35&width=600&pause=10000)](https://git.io/typing-svg)
 
 Hi there, I am a student majoring in Robotics Engineering. I specialize in programming to control robots, machine learning for advanced robots. <br><br>
-<a href="www.google.com">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+
+[!<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.google.com)
+
 
 #
 
