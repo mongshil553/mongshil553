@@ -4,7 +4,7 @@ Hi there, I am a student majoring in Robotics Engineering. I specialize in progr
 
 <!--![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=120&section=header&animation=fadeIn&text=Robotics%20Engineering&fontSize=60)-->
 
-<hr>
+
 <h3 align="center">📚 Tech Stacks 📚</h3>
 
 <div align="center">
@@ -42,9 +42,15 @@ Hi there, I am a student majoring in Robotics Engineering. I specialize in progr
 </div>
 <hr>
 
-<!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kijung553)](https://solved.ac/kijung553)-->
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mongshil553&show_icons=true&theme=radical)-->
+<a href="https://solved.ac/kijung553">
+  <img height=200 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kijung553" />
+</a>
+<a href="https://github.com/mongshil553">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mongshil553&layout=compact&langs_count=8&border_color=888888&hide_border=true&theme=midnight-purple&card_width=320" />
+</a>
 
+
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiusername=mongshil553&show_icons=true&theme=radical)-->
 
 <!--
 **mongshil553/mongshil553** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
