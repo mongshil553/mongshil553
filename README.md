@@ -1,6 +1,11 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Sedan+SC&lines=Welcome+to+my+github+page+👋&color=000000&repeat=true&duration=3000&size=35&width=600&pause=10000)](https://git.io/typing-svg)
 
-Hi there, I am a student majoring in Robotics Engineering. I specialize in programming to control robots, machine learning for advanced robots.
+Hi there, I am a student majoring in Robotics Engineering. I specialize in programming to control robots, machine learning for advanced robots. <br><br>
+<a href="google.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+#
 
 <!--![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=120&section=header&animation=fadeIn&text=Robotics%20Engineering&fontSize=60)-->
 
@@ -62,14 +67,14 @@ Hi there, I am a student majoring in Robotics Engineering. I specialize in progr
 
 </div>
 
-<br><br>
+<br>
 
 <div align=center>
 <a href="https://solved.ac/kijung553">
-  <img height=200 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kijung553" />
+  <img height=150 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kijung553" />
 </a>
 <a href="https://github.com/mongshil553">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mongshil553&layout=compact&langs_count=8&border_color=888888&hide_border=true&theme=midnight-purple&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mongshil553&layout=compact&langs_count=8&border_color=888888&hide_border=true&theme=midnight-purple&card_width=320" />
 </a>
 </div>
 
