@@ -2,7 +2,7 @@
 
 Hi there, I am a student majoring in Robotics Engineering. I specialize in programming to control robots, machine learning for advanced robots. <br>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.google.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](www.linkedin.com/in/ki-jung-park-9a316330a)
 
 
 #
