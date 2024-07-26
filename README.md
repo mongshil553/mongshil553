@@ -69,6 +69,7 @@ Hi there, I am a student majoring in Robotics Engineering. I specialize in progr
 
 <br>
 
+<h3 align="center">📌 Status 📌</h3>
 <div align=center>
 <a href="https://solved.ac/kijung553">
   <img height=150 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kijung553" />
