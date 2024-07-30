@@ -75,7 +75,7 @@ Hi there, I am a student majoring in Robotics Engineering. I specialize in progr
   <img height=150 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kijung553" />
 </a>
 <a href="https://github.com/mongshil553">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mongshil553&layout=compact&langs_count=8&border_color=888888&hide_border=true&theme=midnight-purple&card_width=320&exclude_repo="Scikit-Learn-Classification" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mongshil553&layout=compact&langs_count=8&border_color=888888&hide_border=true&theme=midnight-purple&card_width=320&exclude_repo="Scikit-Learn-Classification,Scikit-Learn-Regression" />
 </a>
 </div>
 
