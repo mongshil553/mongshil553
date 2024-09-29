@@ -61,10 +61,11 @@ Hi there, I am a student majoring in Robotics Engineering. I specialize in progr
   <img src="https://img.shields.io/badge/Visual Studio-56347c?style=for-the-badge&logo=visualstudio&logoColor=white"> &nbsp
   <img src="https://img.shields.io/badge/Visual Studio Code-2396f3?style=for-the-badge&logo=visualstudiocode&logoColor=white"> &nbsp
   <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"> &nbsp <br>
+ <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" /> &nbsp
   <img src="https://img.shields.io/badge/Atmel Studio-ed1c40?style=for-the-badge&logo=atmelstudio&logoColor=white"> &nbsp
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"> &nbsp
   <img src="https://img.shields.io/badge/Notion-EEEEEE?style=for-the-badge&logo=notion&logoColor=black" /> &nbsp
-
+  
 </div>
 
 <br>
